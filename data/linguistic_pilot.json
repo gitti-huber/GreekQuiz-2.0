@@ -1,0 +1,203 @@
+{
+  "schema_version": "0.1-draft",
+  "language": "el",
+  "description": "Linguistic pilot dataset for GreekQuiz 2.0; only verified forms are exercise-ready.",
+  "lexemes": [
+    {
+      "id": "lex-el-theatro",
+      "lemma": "θέατρο",
+      "part_of_speech": "noun",
+      "gender": "neuter",
+      "citation_form": "το θέατρο",
+      "translation_de": "das Theater",
+      "source": {
+        "kind": "original_csv",
+        "category_names": [
+          "Gebäude & Einrichtungen",
+          "Kunst & Kultur"
+        ]
+      },
+      "morphology": {
+        "status": "verified_reference",
+        "forms": [
+          {
+            "number": "singular",
+            "case": "nominative",
+            "form": "θέατρο"
+          },
+          {
+            "number": "singular",
+            "case": "genitive",
+            "form": "θεάτρου"
+          },
+          {
+            "number": "singular",
+            "case": "accusative",
+            "form": "θέατρο"
+          },
+          {
+            "number": "plural",
+            "case": "nominative",
+            "form": "θέατρα"
+          },
+          {
+            "number": "plural",
+            "case": "genitive",
+            "form": "θεάτρων"
+          },
+          {
+            "number": "plural",
+            "case": "accusative",
+            "form": "θέατρα"
+          }
+        ],
+        "reference": "https://www.ilsp.gr/wp-content/uploads/2020/05/Basic_Greek_Grammar.pdf"
+      }
+    },
+    {
+      "id": "lex-el-gynaika",
+      "lemma": "γυναίκα",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "citation_form": "η γυναίκα",
+      "translation_de": "die Frau",
+      "morphology": {
+        "status": "verified_reference",
+        "forms": [
+          {
+            "number": "singular",
+            "case": "nominative",
+            "form": "γυναίκα"
+          },
+          {
+            "number": "singular",
+            "case": "genitive",
+            "form": "γυναίκας"
+          },
+          {
+            "number": "singular",
+            "case": "accusative",
+            "form": "γυναίκα"
+          },
+          {
+            "number": "plural",
+            "case": "nominative",
+            "form": "γυναίκες"
+          },
+          {
+            "number": "plural",
+            "case": "genitive",
+            "form": "γυναικών"
+          },
+          {
+            "number": "plural",
+            "case": "accusative",
+            "form": "γυναίκες"
+          }
+        ],
+        "reference": "https://www.greek-language.gr/digitalResources/modern_greek/tools/lexica/glossology_edu/iframe.html?heading=2&id=163"
+      }
+    },
+    {
+      "id": "lex-el-anthropos",
+      "lemma": "άνθρωπος",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "citation_form": "ο άνθρωπος",
+      "translation_de": "der Mensch",
+      "morphology": {
+        "status": "verified_reference",
+        "forms": [
+          {
+            "number": "singular",
+            "case": "nominative",
+            "form": "άνθρωπος"
+          },
+          {
+            "number": "singular",
+            "case": "genitive",
+            "form": "ανθρώπου"
+          },
+          {
+            "number": "singular",
+            "case": "accusative",
+            "form": "άνθρωπο"
+          },
+          {
+            "number": "singular",
+            "case": "vocative",
+            "form": "άνθρωπε"
+          },
+          {
+            "number": "plural",
+            "case": "nominative",
+            "form": "άνθρωποι"
+          },
+          {
+            "number": "plural",
+            "case": "genitive",
+            "form": "ανθρώπων"
+          },
+          {
+            "number": "plural",
+            "case": "accusative",
+            "form": "ανθρώπους"
+          },
+          {
+            "number": "plural",
+            "case": "vocative",
+            "form": "άνθρωποι"
+          }
+        ],
+        "reference": "https://www.greek-language.gr/digitalResources/modern_greek/tools/lexica/glossology_edu/iframe.html?heading=2&id=163"
+      }
+    },
+    {
+      "id": "lex-el-esoroucha",
+      "lemma": null,
+      "part_of_speech": "noun",
+      "gender": "neuter",
+      "citation_form": "τα εσώρουχα",
+      "translation_de": "die Unterwäsche",
+      "morphology": {
+        "status": "needs_review",
+        "forms": [],
+        "review_note": "Pluralische Zitierform in der CSV. Lemma, Flexion und Gebrauch zunächst gesondert prüfen."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-el-theatro-building",
+      "lexeme_id": "lex-el-theatro",
+      "type": "multiple_choice",
+      "category": "Gebäude & Einrichtungen",
+      "wrong_answers": [
+        "das Kino",
+        "das Opernhaus",
+        "die Schule"
+      ]
+    },
+    {
+      "id": "q-el-theatro-culture",
+      "lexeme_id": "lex-el-theatro",
+      "type": "multiple_choice",
+      "category": "Kunst & Kultur",
+      "wrong_answers": [
+        "das Kino",
+        "das Konzert",
+        "der Film"
+      ]
+    },
+    {
+      "id": "q-el-theatro-gen-sg",
+      "lexeme_id": "lex-el-theatro",
+      "type": "morphology_input",
+      "target": {
+        "number": "singular",
+        "case": "genitive"
+      },
+      "instruction": "Bilde den Genitiv Singular ohne Artikel."
+    }
+  ]
+}

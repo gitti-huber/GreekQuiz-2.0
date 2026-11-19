@@ -1,0 +1,169 @@
+{
+  "schema_version": "0.1-draft",
+  "language": "el",
+  "part_of_speech": "article",
+  "article_type": "definite",
+  "id": "el-definite-article",
+  "review_status": "reference_checked_pending_project_review",
+  "forms": [
+    {
+      "gender": "masculine",
+      "number": "singular",
+      "case": "nominative",
+      "form": "ο"
+    },
+    {
+      "gender": "feminine",
+      "number": "singular",
+      "case": "nominative",
+      "form": "η"
+    },
+    {
+      "gender": "neuter",
+      "number": "singular",
+      "case": "nominative",
+      "form": "το"
+    },
+    {
+      "gender": "masculine",
+      "number": "singular",
+      "case": "genitive",
+      "form": "του"
+    },
+    {
+      "gender": "feminine",
+      "number": "singular",
+      "case": "genitive",
+      "form": "της"
+    },
+    {
+      "gender": "neuter",
+      "number": "singular",
+      "case": "genitive",
+      "form": "του"
+    },
+    {
+      "gender": "masculine",
+      "number": "singular",
+      "case": "accusative",
+      "form": "τον"
+    },
+    {
+      "gender": "feminine",
+      "number": "singular",
+      "case": "accusative",
+      "form": null,
+      "variants": [
+        {
+          "form": "την",
+          "condition": "before_vowel_or_specified_consonant"
+        },
+        {
+          "form": "τη",
+          "condition": "otherwise"
+        }
+      ],
+      "rule_id": "el-final-n-feminine-accusative-singular"
+    },
+    {
+      "gender": "neuter",
+      "number": "singular",
+      "case": "accusative",
+      "form": "το"
+    },
+    {
+      "gender": "masculine",
+      "number": "plural",
+      "case": "nominative",
+      "form": "οι"
+    },
+    {
+      "gender": "feminine",
+      "number": "plural",
+      "case": "nominative",
+      "form": "οι"
+    },
+    {
+      "gender": "neuter",
+      "number": "plural",
+      "case": "nominative",
+      "form": "τα"
+    },
+    {
+      "gender": "masculine",
+      "number": "plural",
+      "case": "genitive",
+      "form": "των"
+    },
+    {
+      "gender": "feminine",
+      "number": "plural",
+      "case": "genitive",
+      "form": "των"
+    },
+    {
+      "gender": "neuter",
+      "number": "plural",
+      "case": "genitive",
+      "form": "των"
+    },
+    {
+      "gender": "masculine",
+      "number": "plural",
+      "case": "accusative",
+      "form": "τους"
+    },
+    {
+      "gender": "feminine",
+      "number": "plural",
+      "case": "accusative",
+      "form": "τις"
+    },
+    {
+      "gender": "neuter",
+      "number": "plural",
+      "case": "accusative",
+      "form": "τα"
+    }
+  ],
+  "rules": [
+    {
+      "id": "el-final-n-feminine-accusative-singular",
+      "description": "Use την before a vowel or one of the specified consonants/clusters; otherwise use τη. Simple token-initial approximation, not complete phonological context.",
+      "before_vowel_or_specified_consonant": [
+        "α",
+        "ε",
+        "η",
+        "ι",
+        "ο",
+        "υ",
+        "ω",
+        "κ",
+        "π",
+        "τ",
+        "ξ",
+        "ψ",
+        "μπ",
+        "ντ",
+        "γκ",
+        "τσ",
+        "τζ"
+      ],
+      "note": "Match vowel initials also when accented, and compare longest initial sequences first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Modern Greek Grammar – Greek Articles",
+      "url": "https://moderngreekgrammar.com/grammar-reference/greek-articles/"
+    },
+    {
+      "title": "University of Crete Greek noun phrase / definite article teaching resource",
+      "url": "https://ediamme.edc.uoc.gr/diaspora/index.php?download=1238%3A3i-arthra&id=188%3Akleidia-tis-ellinikis-grammatikis-keys-to-greek-grammar&lang=el&option=com_phocadownload&view=category"
+    },
+    {
+      "title": "Final-n rule (current usage discussion)",
+      "url": "https://elon.io/grammar/greek/pronunciation/final-n"
+    }
+  ]
+}

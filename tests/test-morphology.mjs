@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+import { getArticle, getNounForm, getNounPhrase } from '../js/morphology.js';
+const article = JSON.parse(readFileSync(new URL('../data/articles.json', import.meta.url), 'utf8'));
+const pilot = JSON.parse(readFileSync(new URL('../data/linguistic_pilot.json', import.meta.url), 'utf8'));
+const get = id => pilot.lexemes.find(x => x.id === id);
+const opts = (number, grammaticalCase) => ({ number, grammaticalCase });
+assert.equal(getNounForm(get('lex-el-theatro'), opts('singular','genitive')), 'θεάτρου');
+assert.equal(getNounPhrase(article,get('lex-el-theatro'), opts('singular','genitive')), 'του θεάτρου');
+assert.equal(getNounPhrase(article,get('lex-el-theatro'), opts('plural','genitive')), 'των θεάτρων');
+assert.equal(getNounPhrase(article,get('lex-el-anthropos'), opts('singular','vocative')), 'άνθρωπε');
+assert.equal(getNounPhrase(article,get('lex-el-gynaika'), opts('singular','accusative')), 'τη γυναίκα');
+assert.equal(getArticle(article,{gender:'feminine',...opts('singular','accusative'),nextWord:'πόρτα'}), 'την');
+assert.equal(getArticle(article,{gender:'feminine',...opts('singular','accusative'),nextWord:'άνοιξη'}), 'την');
+assert.throws(()=>getNounForm(get('lex-el-esoroucha'),opts('plural','nominative')),/nicht freigegeben/);
+assert.throws(()=>getArticle(article,{gender:'feminine',...opts('singular','accusative')}),/folgende Wort/);
+console.log('9 Tests erfolgreich.');

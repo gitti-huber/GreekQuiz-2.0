@@ -1,0 +1,2678 @@
+[
+  {
+    "id": 0,
+    "category": "Alltagsgegenstände",
+    "greek": "το τραπέζι",
+    "ipa": "to tɾaˈpe.zi",
+    "correct": "der Tisch",
+    "wrong": [
+      "der Stuhl",
+      "das Fenster",
+      "die Lampe"
+    ]
+  },
+  {
+    "id": 1,
+    "category": "Alltagsgegenstände",
+    "greek": "το βιβλίο",
+    "ipa": "to viˈvli.o",
+    "correct": "das Buch",
+    "wrong": [
+      "die Zeitung",
+      "das Heft",
+      "der Bleistift"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Alltagsgegenstände",
+    "greek": "η καρέκλα",
+    "ipa": "i kaˈɾe.kla",
+    "correct": "der Stuhl",
+    "wrong": [
+      "der Tisch",
+      "das Sofa",
+      "der Schrank"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Alltagsgegenstände",
+    "greek": "ο καναπές",
+    "ipa": "o ka.naˈpes",
+    "correct": "das Sofa",
+    "wrong": [
+      "der Stuhl",
+      "die Lampe",
+      "das Kissen"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Alltagsgegenstände",
+    "greek": "η πόρτα",
+    "ipa": "i ˈpoɾ.ta",
+    "correct": "die Tür",
+    "wrong": [
+      "das Fenster",
+      "die Wand",
+      "das Haus"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Alltagsgegenstände",
+    "greek": "ο χάρτης",
+    "ipa": "o ˈxaɾ.tis",
+    "correct": "die Landkarte",
+    "wrong": [
+      "das Papier",
+      "das Heft",
+      "das Buch"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Alltagsgegenstände",
+    "greek": "το ποτήρι",
+    "ipa": "to poˈti.ɾi",
+    "correct": "das Glas",
+    "wrong": [
+      "die Tasse",
+      "die Schüssel",
+      "der Teller"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Alltagsgegenstände",
+    "greek": "το μαχαίρι",
+    "ipa": "to maˈxe.ɾi",
+    "correct": "das Messer",
+    "wrong": [
+      "die Gabel",
+      "der Löffel",
+      "das Glas"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Alltagsgegenstände",
+    "greek": "το ψαλίδι",
+    "ipa": "to psaˈli.ði",
+    "correct": "die Schere",
+    "wrong": [
+      "der Bleistift",
+      "das Papier",
+      "die Uhr"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Alltagsgegenstände",
+    "greek": "η κατσαρόλα",
+    "ipa": "i ka.tsaˈɾo.la",
+    "correct": "der Topf",
+    "wrong": [
+      "die Pfanne",
+      "der Teller",
+      "die Flasche"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Alltagsgegenstände",
+    "greek": "η σκούπα",
+    "ipa": "i ˈsku.pa",
+    "correct": "der Besen",
+    "wrong": [
+      "die Tasse",
+      "der Hut",
+      "der Eimer"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Alltagsgegenstände",
+    "greek": "το μαξιλάρι",
+    "ipa": "to ma.ksiˈla.ɾi",
+    "correct": "das Kissen",
+    "wrong": [
+      "die Bettdecke",
+      "die Matratze",
+      "der Teppich"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Alltagsgegenstände",
+    "greek": "το ψυγείο",
+    "ipa": "to psiˈji.o",
+    "correct": "der Kühlschrank",
+    "wrong": [
+      "der Topf",
+      "die Schüssel",
+      "der Hut"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Alltagsgegenstände",
+    "greek": "το τηλέφωνο",
+    "ipa": "to tiˈle.fo.no",
+    "correct": "das Telefon",
+    "wrong": [
+      "der Computer",
+      "der Fernseher",
+      "die Lampe"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Alltagsgegenstände",
+    "greek": "το κινητό",
+    "ipa": "to ki.niˈto",
+    "correct": "das Handy",
+    "wrong": [
+      "das Messer",
+      "das Buch",
+      "der Teller"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Alltagsgegenstände",
+    "greek": "η τηλεόραση",
+    "ipa": "i ti.leˈo.ɾa.si",
+    "correct": "der Fernseher",
+    "wrong": [
+      "der Topf",
+      "der Tisch",
+      "die Uhr"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Alltagsgegenstände",
+    "greek": "ο καθρέφτης",
+    "ipa": "o kaˈθɾef.tis",
+    "correct": "der Spiegel",
+    "wrong": [
+      "die Lampe",
+      "das Sofa",
+      "der Stuhl"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Alltagsgegenstände",
+    "greek": "το ρολόι",
+    "ipa": "to roˈlo.i",
+    "correct": "die Uhr",
+    "wrong": [
+      "die Brille",
+      "der Regenschirm",
+      "der Hut"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Alltagsgegenstände",
+    "greek": "ο υπολογιστής",
+    "ipa": "o i.po.lo.jiˈstis",
+    "correct": "der Computer",
+    "wrong": [
+      "die Computermaus",
+      "die Tastatur",
+      "der Bildschirm"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Essen & Trinken",
+    "greek": "το νερό",
+    "ipa": "to neˈɾo",
+    "correct": "das Wasser",
+    "wrong": [
+      "die Milch",
+      "der Saft",
+      "das Bier"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Essen & Trinken",
+    "greek": "το ψωμί",
+    "ipa": "to psoˈmi",
+    "correct": "das Brot",
+    "wrong": [
+      "der Käse",
+      "die Butter",
+      "die Marmelade"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Essen & Trinken",
+    "greek": "το φαγητό",
+    "ipa": "to fa.ɣiˈto",
+    "correct": "das Essen",
+    "wrong": [
+      "das Erfrischungsgetränk",
+      "das Fleisch",
+      "der Salat"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Essen & Trinken",
+    "greek": "το κρέας",
+    "ipa": "to ˈkɾe.as",
+    "correct": "das Fleisch",
+    "wrong": [
+      "das Hähnchen",
+      "das Steak",
+      "die Suppe"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Essen & Trinken",
+    "greek": "το κοτόπουλο",
+    "ipa": "to koˈto.pulo",
+    "correct": "das Hähnchen",
+    "wrong": [
+      "das Brot",
+      "die Suppe",
+      "die Wurst"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Essen & Trinken",
+    "greek": "η σούπα",
+    "ipa": "i ˈsu.pa",
+    "correct": "die Suppe",
+    "wrong": [
+      "das Brot",
+      "der Salat",
+      "die Butter"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Essen & Trinken",
+    "greek": "η σαλάτα",
+    "ipa": "i saˈla.ta",
+    "correct": "der Salat",
+    "wrong": [
+      "die Tomate",
+      "die Gurke",
+      "der Käse"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Essen & Trinken",
+    "greek": "το τυρί",
+    "ipa": "to tiˈɾi",
+    "correct": "der Käse",
+    "wrong": [
+      "die Milch",
+      "die Butter",
+      "die Olive"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Essen & Trinken",
+    "greek": "το κρασί",
+    "ipa": "to kɾaˈsi",
+    "correct": "der Wein",
+    "wrong": [
+      "das Bier",
+      "der Schnaps",
+      "das Wasser"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Essen & Trinken",
+    "greek": "ο καφές",
+    "ipa": "o kaˈfes",
+    "correct": "der Kaffee",
+    "wrong": [
+      "der Tee",
+      "der Wein",
+      "die Milch"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Essen & Trinken",
+    "greek": "το τσάι",
+    "ipa": "to ˈtsai",
+    "correct": "der Tee",
+    "wrong": [
+      "der Kaffee",
+      "die Milch",
+      "das Wasser"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Essen & Trinken",
+    "greek": "το παγωτό",
+    "ipa": "to paɣoˈto",
+    "correct": "das Eis",
+    "wrong": [
+      "der Kuchen",
+      "die Schokolade",
+      "die Torte"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Essen & Trinken",
+    "greek": "το ποτό",
+    "ipa": "to poˈto",
+    "correct": "das (alkoholische) Getränk",
+    "wrong": [
+      "der Saft",
+      "das Erfrischungsgetränk",
+      "der Wein"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Essen & Trinken",
+    "greek": "το αναψυκτικό",
+    "ipa": "to a.na.psi.ktiˈko",
+    "correct": "das Erfrischungsgetränk",
+    "wrong": [
+      "der Saft",
+      "das Bier",
+      "der Wein"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Essen & Trinken",
+    "greek": "το αυγό",
+    "ipa": "to avˈɣo",
+    "correct": "das Ei",
+    "wrong": [
+      "das Brot",
+      "die Wurst",
+      "der Käse"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Essen & Trinken",
+    "greek": "η μπύρα",
+    "ipa": "i ˈbiɾa",
+    "correct": "das Bier",
+    "wrong": [
+      "der Wein",
+      "das Wasser",
+      "der Saft"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Essen & Trinken",
+    "greek": "το φρούτο",
+    "ipa": "to ˈfɾuto",
+    "correct": "die Frucht",
+    "wrong": [
+      "der Apfel",
+      "die Banane",
+      "die Orange"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Essen & Trinken",
+    "greek": "το λάδι",
+    "ipa": "to ˈla.ði",
+    "correct": "das Öl",
+    "wrong": [
+      "der Essig",
+      "die Butter",
+      "die Orange"
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το σπίτι",
+    "ipa": "to ˈspi.ti",
+    "correct": "das Haus",
+    "wrong": [
+      "die Brücke",
+      "die Kirche",
+      "der Turm"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "η εκκλησία",
+    "ipa": "i ek.liˈsi.a",
+    "correct": "die Kirche",
+    "wrong": [
+      "die Moschee",
+      "das Haus",
+      "der Tempel"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "η γέφυρα",
+    "ipa": "i ˈje.fi.ɾa",
+    "correct": "die Brücke",
+    "wrong": [
+      "die Kirche",
+      "das Schloss",
+      "das Haus"
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "ο πύργος",
+    "ipa": "o ˈpiɾ.ɣos",
+    "correct": "der Turm",
+    "wrong": [
+      "die Brücke",
+      "das Hotel",
+      "die Apotheke"
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το σχολείο",
+    "ipa": "to sxoˈli.o",
+    "correct": "die Schule",
+    "wrong": [
+      "die Universität",
+      "die Bibliothek",
+      "das Hotel"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το νοσοκομείο",
+    "ipa": "to no.so.koˈmi.o",
+    "correct": "das Krankenhaus",
+    "wrong": [
+      "die Kirche",
+      "die Apotheke",
+      "die Brücke"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το φαρμακείο",
+    "ipa": "to far.maˈki.o",
+    "correct": "die Apotheke",
+    "wrong": [
+      "das Krankenhaus",
+      "die Brücke",
+      "das Schloss"
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το ξενοδοχείο",
+    "ipa": "to kse.no.ðoˈxi.o",
+    "correct": "das Hotel",
+    "wrong": [
+      "die Boutique",
+      "das Museum",
+      "die Buchhandlung"
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το θέατρο",
+    "ipa": "to ˈθe.a.tɾo",
+    "correct": "das Theater",
+    "wrong": [
+      "das Kino",
+      "das Opernhaus",
+      "die Schule"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "η βιβλιοθήκη",
+    "ipa": "i vi.vli.oˈθi.ki",
+    "correct": "die Bibliothek",
+    "wrong": [
+      "die Universität",
+      "das Museum",
+      "die Buchhandlung"
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το μουσείο",
+    "ipa": "to muˈsi.o",
+    "correct": "das Museum",
+    "wrong": [
+      "die Bibliothek",
+      "die Schule",
+      "das Hotel"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το κάστρο",
+    "ipa": "to ˈkas.tɾo",
+    "correct": "das Schloss",
+    "wrong": [
+      "das Museum",
+      "die Kirche",
+      "die Schule"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Gebäude & Einrichtungen",
+    "greek": "το εργοστάσιο",
+    "ipa": "to eɾ.ɣoˈsta.sio",
+    "correct": "die Fabrik",
+    "wrong": [
+      "die Oper",
+      "das Hotel",
+      "das Kino"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Gefühle",
+    "greek": "η αγάπη",
+    "ipa": "i aˈɣa.pi",
+    "correct": "die Liebe",
+    "wrong": [
+      "der Hass",
+      "die Freude",
+      "die Trauer"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Gefühle",
+    "greek": "ο θυμός",
+    "ipa": "o θiˈmos",
+    "correct": "der Zorn",
+    "wrong": [
+      "die Liebe",
+      "die Freude",
+      "die Trauer"
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Gefühle",
+    "greek": "η χαρά",
+    "ipa": "i xaˈɾa",
+    "correct": "die Freude",
+    "wrong": [
+      "die Wut",
+      "der Wunsch",
+      "die Angst"
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Gefühle",
+    "greek": "η λύπη",
+    "ipa": "i ˈli.pi",
+    "correct": "die Trauer",
+    "wrong": [
+      "die Freude",
+      "die Scham",
+      "die Sorge"
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Gefühle",
+    "greek": "ο φόβος",
+    "ipa": "o ˈfovos",
+    "correct": "die Angst",
+    "wrong": [
+      "die Trauer",
+      "der Hass",
+      "die Freude"
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Gefühle",
+    "greek": "η ελπίδα",
+    "ipa": "i elˈpiða",
+    "correct": "die Hoffnung",
+    "wrong": [
+      "die Trauer",
+      "die Freude",
+      "die Angst"
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Gefühle",
+    "greek": "η αγωνία",
+    "ipa": "i aɣoˈni.a",
+    "correct": "die Sorge",
+    "wrong": [
+      "die Liebe",
+      "die Angst",
+      "der Hass"
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Gefühle",
+    "greek": "η περηφάνια",
+    "ipa": "i peɾiˈfa.nia",
+    "correct": "der Stolz",
+    "wrong": [
+      "der Wunsch",
+      "die Freude",
+      "die Trauer"
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Gefühle",
+    "greek": "η ευτυχία",
+    "ipa": "i evtiˈxi.a",
+    "correct": "das Glück",
+    "wrong": [
+      "die Angst",
+      "die Sorge",
+      "die Wut"
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Gefühle",
+    "greek": "η ντροπή",
+    "ipa": "i ntɾoˈpi",
+    "correct": "die Scham",
+    "wrong": [
+      "die Angst",
+      "die Liebe",
+      "der Hass"
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Gefühle",
+    "greek": "η αποδοχή",
+    "ipa": "i a.po.doˈxi",
+    "correct": "die Akzeptanz",
+    "wrong": [
+      "der Stolz",
+      "die Wut",
+      "die Freude"
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Kleidung",
+    "greek": "το παντελόνι",
+    "ipa": "to pan.teˈlo.ni",
+    "correct": "die Hose",
+    "wrong": [
+      "das Hemd",
+      "die Mütze",
+      "die Jacke"
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Kleidung",
+    "greek": "το πουκάμισο",
+    "ipa": "to puˈka.mi.so",
+    "correct": "das Hemd",
+    "wrong": [
+      "die Hose",
+      "der Schuh",
+      "die Krawatte"
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Kleidung",
+    "greek": "το φόρεμα",
+    "ipa": "to ˈfo.re.ma",
+    "correct": "das Kleid",
+    "wrong": [
+      "die Jacke",
+      "der Rock",
+      "die Bluse"
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Kleidung",
+    "greek": "η μπλούζα",
+    "ipa": "i ˈblu.za",
+    "correct": "die Bluse",
+    "wrong": [
+      "der Rock",
+      "das Hemd",
+      "die Hose"
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Kleidung",
+    "greek": "το καπέλο",
+    "ipa": "to kaˈpe.lo",
+    "correct": "der Hut",
+    "wrong": [
+      "die Mütze",
+      "der Handschuh",
+      "der Schuh"
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Kleidung",
+    "greek": "το παπούτσι",
+    "ipa": "to paˈpu.tsi",
+    "correct": "der Schuh",
+    "wrong": [
+      "der Stiefel",
+      "die Socke",
+      "die Mütze"
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Kleidung",
+    "greek": "η ζακέτα",
+    "ipa": "i zaˈke.ta",
+    "correct": "die Jacke",
+    "wrong": [
+      "der Mantel",
+      "der Rock",
+      "die Hose"
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Kleidung",
+    "greek": "το σακάκι",
+    "ipa": "to saˈka.ki",
+    "correct": "das Sakko",
+    "wrong": [
+      "die Jeans",
+      "die Hose",
+      "die Krawatte"
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Kleidung",
+    "greek": "η φούστα",
+    "ipa": "i ˈfu.sta",
+    "correct": "der Rock",
+    "wrong": [
+      "die Bluse",
+      "das Kleid",
+      "die Jacke"
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Kleidung",
+    "greek": "τα εσώρουχα",
+    "ipa": "ta eˈso.ɾu.χa",
+    "correct": "die Unterwäsche",
+    "wrong": [
+      "der Mantel",
+      "die Hose",
+      "der Handschuh"
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Kleidung",
+    "greek": "το γάντι",
+    "ipa": "to ˈɣan.ti",
+    "correct": "der Handschuh",
+    "wrong": [
+      "die Mütze",
+      "die Socke",
+      "die Jacke"
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Kleidung",
+    "greek": "το τζιν",
+    "ipa": "to dzin",
+    "correct": "die Jeans",
+    "wrong": [
+      "die Bluse",
+      "der Rock",
+      "das Kleid"
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Kleidung",
+    "greek": "το παλτό",
+    "ipa": "to palˈto",
+    "correct": "der Mantel",
+    "wrong": [
+      "die Jacke",
+      "der Schal",
+      "die Mütze"
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Kleidung",
+    "greek": "η κάλτσα",
+    "ipa": "i ˈkal.tsa",
+    "correct": "die Socke",
+    "wrong": [
+      "die Mütze",
+      "der Schuh",
+      "der Gürtel"
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Kleidung",
+    "greek": "η ζώνη",
+    "ipa": "i ˈzo.ni",
+    "correct": "der Gürtel",
+    "wrong": [
+      "die Hose",
+      "die Mütze",
+      "die Tasche"
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Kleidung",
+    "greek": "το φουλάρι",
+    "ipa": "to fuˈla.ɾi",
+    "correct": "das Halstuch",
+    "wrong": [
+      "die Jacke",
+      "die Mütze",
+      "der Handschuh"
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Kleidung",
+    "greek": "το μανίκι",
+    "ipa": "to maˈni.ki",
+    "correct": "der Ärmel",
+    "wrong": [
+      "der Rock",
+      "die Bluse",
+      "die Hose"
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Kunst & Kultur",
+    "greek": "η μουσική",
+    "ipa": "i mu.siˈki",
+    "correct": "die Musik",
+    "wrong": [
+      "der Gesang",
+      "die Melodie",
+      "das Lied"
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Kunst & Kultur",
+    "greek": "η λογοτεχνία",
+    "ipa": "i lo.ɣo.teˈxni.a",
+    "correct": "die Literatur",
+    "wrong": [
+      "die Aufführung",
+      "die Musik",
+      "der Film"
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Kunst & Kultur",
+    "greek": "ο χορός",
+    "ipa": "o xoˈɾos",
+    "correct": "der Tanz",
+    "wrong": [
+      "die Musik",
+      "das Theater",
+      "das Spiel"
+    ]
+  },
+  {
+    "id": 81,
+    "category": "Kunst & Kultur",
+    "greek": "το θέατρο",
+    "ipa": "to ˈθe.a.tɾo",
+    "correct": "das Theater",
+    "wrong": [
+      "das Kino",
+      "das Konzert",
+      "der Film"
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Kunst & Kultur",
+    "greek": "ο κινηματογράφος",
+    "ipa": "o ki.ni.ma.toˈɣɾa.fos",
+    "correct": "das Kino",
+    "wrong": [
+      "das Theater",
+      "der Film",
+      "die Oper"
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Kunst & Kultur",
+    "greek": "το ποίημα",
+    "ipa": "to ˈpi.i.ma",
+    "correct": "das Gedicht",
+    "wrong": [
+      "der Roman",
+      "das Lied",
+      "der Film"
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Kunst & Kultur",
+    "greek": "η όπερα",
+    "ipa": "i ˈo.pe.ɾa",
+    "correct": "die Oper",
+    "wrong": [
+      "die Ausstellung",
+      "das Konzert",
+      "die Symphonie"
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Kunst & Kultur",
+    "greek": "η συναυλία",
+    "ipa": "i si.naˈvli.a",
+    "correct": "das Konzert",
+    "wrong": [
+      "die Aufführung",
+      "das Festival",
+      "die Lesung"
+    ]
+  },
+  {
+    "id": 86,
+    "category": "Kunst & Kultur",
+    "greek": "το φεστιβάλ",
+    "ipa": "to fe.stiˈval",
+    "correct": "das Festival",
+    "wrong": [
+      "die Ausstellung",
+      "das Theater",
+      "die Lesung"
+    ]
+  },
+  {
+    "id": 87,
+    "category": "Kunst & Kultur",
+    "greek": "η παράσταση",
+    "ipa": "i paˈɾas.ta.si",
+    "correct": "die Aufführung",
+    "wrong": [
+      "die Lesung",
+      "das Festival",
+      "das Konzert"
+    ]
+  },
+  {
+    "id": 88,
+    "category": "Menschen",
+    "greek": "ο φίλος",
+    "ipa": "o ˈfi.los",
+    "correct": "der Freund",
+    "wrong": [
+      "die Schwester",
+      "der Vater",
+      "die Mutter"
+    ]
+  },
+  {
+    "id": 89,
+    "category": "Menschen",
+    "greek": "ο άνθρωπος",
+    "ipa": "o ˈanθɾopos",
+    "correct": "der Mensch",
+    "wrong": [
+      "die Frau",
+      "das Kind",
+      "der Junge"
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Menschen",
+    "greek": "η γυναίκα",
+    "ipa": "i ɣiˈne.ka",
+    "correct": "die Frau",
+    "wrong": [
+      "der Mann",
+      "das Mädchen",
+      "die Mutter"
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Menschen",
+    "greek": "το παιδί",
+    "ipa": "to peˈði",
+    "correct": "das Kind",
+    "wrong": [
+      "der Junge",
+      "das Mädchen",
+      "die Großmutter"
+    ]
+  },
+  {
+    "id": 92,
+    "category": "Menschen",
+    "greek": "ο άνδρας",
+    "ipa": "o ˈan.ðɾas",
+    "correct": "der Mann",
+    "wrong": [
+      "der Großvater",
+      "der Junge",
+      "das Baby"
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Menschen",
+    "greek": "η μητέρα",
+    "ipa": "i miˈte.ɾa",
+    "correct": "die Mutter",
+    "wrong": [
+      "der Vater",
+      "die Schwester",
+      "die Tante"
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Menschen",
+    "greek": "ο πατέρας",
+    "ipa": "o paˈte.ɾas",
+    "correct": "der Vater",
+    "wrong": [
+      "die Mutter",
+      "die Schwester",
+      "der Bruder"
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Menschen",
+    "greek": "η αδερφή",
+    "ipa": "i a.ðerˈfi",
+    "correct": "die Schwester",
+    "wrong": [
+      "der Bruder",
+      "die Tante",
+      "die Mutter"
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Menschen",
+    "greek": "ο γιος",
+    "ipa": "o jos",
+    "correct": "der Sohn",
+    "wrong": [
+      "die Tochter",
+      "der Bruder",
+      "das Kind"
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Menschen",
+    "greek": "η κόρη",
+    "ipa": "i ˈko.ɾi",
+    "correct": "die Tochter",
+    "wrong": [
+      "der Sohn",
+      "der Junge",
+      "die Frau"
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Menschen",
+    "greek": "ο δάσκαλος",
+    "ipa": "o ˈðas.ka.los",
+    "correct": "der Lehrer",
+    "wrong": [
+      "die Lehrerin",
+      "der Schüler",
+      "die Schülerin"
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Menschen",
+    "greek": "η δασκάλα",
+    "ipa": "i ðasˈka.la",
+    "correct": "die Lehrerin",
+    "wrong": [
+      "der Lehrer",
+      "die Schülerin",
+      "die Mutter"
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Menschen",
+    "greek": "ο μαθητής",
+    "ipa": "o ma.θiˈtis",
+    "correct": "der Schüler",
+    "wrong": [
+      "die Lehrerin",
+      "die Schülerin",
+      "der Lehrer"
+    ]
+  },
+  {
+    "id": 101,
+    "category": "Menschen",
+    "greek": "η μαθήτρια",
+    "ipa": "i maˈθi.tɾi.a",
+    "correct": "die Schülerin",
+    "wrong": [
+      "der Schüler",
+      "die Lehrerin",
+      "die Mutter"
+    ]
+  },
+  {
+    "id": 102,
+    "category": "Menschen",
+    "greek": "ο γιατρός",
+    "ipa": "o jaˈtɾos",
+    "correct": "der Arzt",
+    "wrong": [
+      "die Ärztin",
+      "die Krankenschwester",
+      "der Krankenpfleger"
+    ]
+  },
+  {
+    "id": 103,
+    "category": "Menschen",
+    "greek": "η νοσοκόμα",
+    "ipa": "i no.soˈko.ma",
+    "correct": "die Krankenschwester",
+    "wrong": [
+      "der Arzt",
+      "die Ärztin",
+      "das Krankenhaus"
+    ]
+  },
+  {
+    "id": 104,
+    "category": "Natur & Umwelt",
+    "greek": "η φύση",
+    "ipa": "i ˈfi.si",
+    "correct": "die Natur",
+    "wrong": [
+      "die Welt",
+      "der Wald",
+      "die Landschaft"
+    ]
+  },
+  {
+    "id": 105,
+    "category": "Natur & Umwelt",
+    "greek": "το φυτό",
+    "ipa": "to fiˈto",
+    "correct": "die Pflanze",
+    "wrong": [
+      "der Baum",
+      "die Blume",
+      "das Gras"
+    ]
+  },
+  {
+    "id": 106,
+    "category": "Natur & Umwelt",
+    "greek": "το λουλούδι",
+    "ipa": "to luˈlu.ði",
+    "correct": "die Blume",
+    "wrong": [
+      "das Gras",
+      "der Baum",
+      "die Wiese"
+    ]
+  },
+  {
+    "id": 107,
+    "category": "Natur & Umwelt",
+    "greek": "το χορτάρι",
+    "ipa": "to xoɾˈta.ɾi",
+    "correct": "das Gras",
+    "wrong": [
+      "die Blume",
+      "der Baum",
+      "der Park"
+    ]
+  },
+  {
+    "id": 108,
+    "category": "Natur & Umwelt",
+    "greek": "ο κήπος",
+    "ipa": "o ˈki.pos",
+    "correct": "der Garten",
+    "wrong": [
+      "die Wiese",
+      "der Park",
+      "die Blume"
+    ]
+  },
+  {
+    "id": 109,
+    "category": "Natur & Umwelt",
+    "greek": "το δάσος",
+    "ipa": "to ˈða.sos",
+    "correct": "der Wald",
+    "wrong": [
+      "der Park",
+      "die Pflanze",
+      "der Garten"
+    ]
+  },
+  {
+    "id": 110,
+    "category": "Natur & Umwelt",
+    "greek": "η παραλία",
+    "ipa": "i paɾaˈli.a",
+    "correct": "der Strand",
+    "wrong": [
+      "das Meer",
+      "der See",
+      "die Insel"
+    ]
+  },
+  {
+    "id": 111,
+    "category": "Natur & Umwelt",
+    "greek": "το νησί",
+    "ipa": "to niˈsi",
+    "correct": "die Insel",
+    "wrong": [
+      "der Ozean",
+      "das Meer",
+      "die Küste"
+    ]
+  },
+  {
+    "id": 112,
+    "category": "Natur & Umwelt",
+    "greek": "ο ωκεανός",
+    "ipa": "o o.ke.aˈnos",
+    "correct": "der Ozean",
+    "wrong": [
+      "das Meer",
+      "der Fluss",
+      "der See"
+    ]
+  },
+  {
+    "id": 113,
+    "category": "Natur & Umwelt",
+    "greek": "η λίμνη",
+    "ipa": "i ˈlim.ni",
+    "correct": "der See",
+    "wrong": [
+      "das Meer",
+      "der Fluss",
+      "der Strand"
+    ]
+  },
+  {
+    "id": 114,
+    "category": "Natur & Umwelt",
+    "greek": "το βουνό",
+    "ipa": "to vuˈno",
+    "correct": "der Berg",
+    "wrong": [
+      "das Tal",
+      "der Fluss",
+      "die Stadt"
+    ]
+  },
+  {
+    "id": 115,
+    "category": "Natur & Umwelt",
+    "greek": "το χωριό",
+    "ipa": "to xoˈɾio",
+    "correct": "das Dorf",
+    "wrong": [
+      "die Stadt",
+      "die Insel",
+      "die Region"
+    ]
+  },
+  {
+    "id": 116,
+    "category": "Natur & Umwelt",
+    "greek": "το δέντρο",
+    "ipa": "to ˈðen.tɾo",
+    "correct": "der Baum",
+    "wrong": [
+      "die Blume",
+      "das Gras",
+      "der Fluss"
+    ]
+  },
+  {
+    "id": 117,
+    "category": "Natur & Umwelt",
+    "greek": "η νύχτα",
+    "ipa": "i ˈni.xta",
+    "correct": "die Nacht",
+    "wrong": [
+      "der Tag",
+      "der Morgen",
+      "der Abend"
+    ]
+  },
+  {
+    "id": 118,
+    "category": "Natur & Umwelt",
+    "greek": "ο ουρανός",
+    "ipa": "o u.ɾaˈnos",
+    "correct": "der Himmel",
+    "wrong": [
+      "die Erde",
+      "das Meer",
+      "die Sonne"
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Natur & Umwelt",
+    "greek": "το χιόνι",
+    "ipa": "to ˈxio.ni",
+    "correct": "der Schnee",
+    "wrong": [
+      "der Regen",
+      "die Wolke",
+      "der Nebel"
+    ]
+  },
+  {
+    "id": 120,
+    "category": "Natur & Umwelt",
+    "greek": "η βροχή",
+    "ipa": "i vɾoˈxi",
+    "correct": "der Regen",
+    "wrong": [
+      "der Schnee",
+      "der Sturm",
+      "die Sonne"
+    ]
+  },
+  {
+    "id": 121,
+    "category": "Natur & Umwelt",
+    "greek": "ο άνεμος",
+    "ipa": "o ˈa.ne.mos",
+    "correct": "der Wind",
+    "wrong": [
+      "der Sturm",
+      "der Schnee",
+      "der Regen"
+    ]
+  },
+  {
+    "id": 122,
+    "category": "Natur & Umwelt",
+    "greek": "η καταιγίδα",
+    "ipa": "i ka.teˈɣi.ða",
+    "correct": "der Sturm",
+    "wrong": [
+      "der Regen",
+      "der Wind",
+      "die Wolke"
+    ]
+  },
+  {
+    "id": 123,
+    "category": "Natur & Umwelt",
+    "greek": "το φως",
+    "ipa": "to fos",
+    "correct": "das Licht",
+    "wrong": [
+      "die Dunkelheit",
+      "die Sonne",
+      "die Lampe"
+    ]
+  },
+  {
+    "id": 124,
+    "category": "Natur & Umwelt",
+    "greek": "το σκοτάδι",
+    "ipa": "to skoˈta.ði",
+    "correct": "die Dunkelheit",
+    "wrong": [
+      "das Licht",
+      "die Nacht",
+      "der Schatten"
+    ]
+  },
+  {
+    "id": 125,
+    "category": "Natur & Umwelt",
+    "greek": "η σκιά",
+    "ipa": "i skiˈa",
+    "correct": "der Schatten",
+    "wrong": [
+      "das Licht",
+      "der Nebel",
+      "die Dunkelheit"
+    ]
+  },
+  {
+    "id": 126,
+    "category": "Natur & Umwelt",
+    "greek": "το ουράνιο τόξο",
+    "ipa": "to uˈɾa.ni.o ˈto.kso",
+    "correct": "der Regenbogen",
+    "wrong": [
+      "die Wolke",
+      "die Sonne",
+      "der Regen"
+    ]
+  },
+  {
+    "id": 127,
+    "category": "Natur & Umwelt",
+    "greek": "η θάλασσα",
+    "ipa": "i ˈθa.la.sa",
+    "correct": "das Meer",
+    "wrong": [
+      "der Fluss",
+      "der See",
+      "die Wolke"
+    ]
+  },
+  {
+    "id": 128,
+    "category": "Natur & Umwelt",
+    "greek": "ο αέρας",
+    "ipa": "o aˈe.ɾas",
+    "correct": "die Luft",
+    "wrong": [
+      "das Feuer",
+      "das Wasser",
+      "die Erde"
+    ]
+  },
+  {
+    "id": 129,
+    "category": "Natur & Umwelt",
+    "greek": "η χώρα",
+    "ipa": "i ˈxo.ɾa",
+    "correct": "das Land",
+    "wrong": [
+      "die Stadt",
+      "die Insel",
+      "das Dorf"
+    ]
+  },
+  {
+    "id": 130,
+    "category": "Natur & Umwelt",
+    "greek": "το ποτάμι",
+    "ipa": "to poˈta.mi",
+    "correct": "der Fluss",
+    "wrong": [
+      "der See",
+      "das Meer",
+      "der Strand"
+    ]
+  },
+  {
+    "id": 131,
+    "category": "Natur & Umwelt",
+    "greek": "ο ήλιος",
+    "ipa": "o ˈi.ljos",
+    "correct": "die Sonne",
+    "wrong": [
+      "der Mond",
+      "der Stern",
+      "die Wolke"
+    ]
+  },
+  {
+    "id": 132,
+    "category": "Natur & Umwelt",
+    "greek": "η γη",
+    "ipa": "i ji",
+    "correct": "die Erde",
+    "wrong": [
+      "der Mond",
+      "die Sonne",
+      "der Mars"
+    ]
+  },
+  {
+    "id": 133,
+    "category": "Natur & Umwelt",
+    "greek": "ο κεραυνός",
+    "ipa": "o ke.rav.ˈnos",
+    "correct": "der Blitz",
+    "wrong": [
+      "der Mond",
+      "der Planet",
+      "die Wolke"
+    ]
+  },
+  {
+    "id": 134,
+    "category": "Natur & Umwelt",
+    "greek": "το φεγγάρι",
+    "ipa": "to feˈnga.ɾi",
+    "correct": "der Mond",
+    "wrong": [
+      "die Sonne",
+      "die Erde",
+      "die Wolke"
+    ]
+  },
+  {
+    "id": 135,
+    "category": "Personalpronomen",
+    "greek": "εγώ",
+    "ipa": "eˈɣo",
+    "correct": "ich",
+    "wrong": [
+      "du",
+      "wir",
+      "sie (pl.)"
+    ]
+  },
+  {
+    "id": 136,
+    "category": "Personalpronomen",
+    "greek": "εσύ",
+    "ipa": "eˈsi",
+    "correct": "du",
+    "wrong": [
+      "ich",
+      "wir",
+      "sie (pl.)"
+    ]
+  },
+  {
+    "id": 137,
+    "category": "Personalpronomen",
+    "greek": "αυτός",
+    "ipa": "afˈtos",
+    "correct": "er",
+    "wrong": [
+      "sie (sg.f.)",
+      "wir",
+      "ich"
+    ]
+  },
+  {
+    "id": 138,
+    "category": "Personalpronomen",
+    "greek": "αυτή",
+    "ipa": "afˈti",
+    "correct": "sie (sg.f.)",
+    "wrong": [
+      "er",
+      "wir",
+      "du"
+    ]
+  },
+  {
+    "id": 139,
+    "category": "Personalpronomen",
+    "greek": "αυτό",
+    "ipa": "afˈto",
+    "correct": "es",
+    "wrong": [
+      "ich",
+      "wir",
+      "sie (sg.f.)"
+    ]
+  },
+  {
+    "id": 140,
+    "category": "Personalpronomen",
+    "greek": "εμείς",
+    "ipa": "eˈmis",
+    "correct": "wir",
+    "wrong": [
+      "du",
+      "er",
+      "sie (pl.)"
+    ]
+  },
+  {
+    "id": 141,
+    "category": "Personalpronomen",
+    "greek": "εσείς",
+    "ipa": "eˈsis",
+    "correct": "ihr/Sie",
+    "wrong": [
+      "ich",
+      "wir",
+      "du"
+    ]
+  },
+  {
+    "id": 142,
+    "category": "Personalpronomen",
+    "greek": "αυτοί",
+    "ipa": "afˈti",
+    "correct": "sie (pl.)",
+    "wrong": [
+      "ich",
+      "wir",
+      "du"
+    ]
+  },
+  {
+    "id": 143,
+    "category": "Personalpronomen",
+    "greek": "αυτές",
+    "ipa": "afˈtes",
+    "correct": "sie (pl.f.)",
+    "wrong": [
+      "ich",
+      "wir",
+      "du"
+    ]
+  },
+  {
+    "id": 144,
+    "category": "Personalpronomen",
+    "greek": "αυτά",
+    "ipa": "afˈta",
+    "correct": "sie (pl.n.)",
+    "wrong": [
+      "ich",
+      "wir",
+      "ihr/Sie"
+    ]
+  },
+  {
+    "id": 145,
+    "category": "Sport & Spiel",
+    "greek": "το ποδόσφαιρο",
+    "ipa": "to poˈðos.fe.ɾo",
+    "correct": "der Fußball",
+    "wrong": [
+      "der Würfel",
+      "das Schwimmen",
+      "die Mannschaft"
+    ]
+  },
+  {
+    "id": 146,
+    "category": "Sport & Spiel",
+    "greek": "η μπάλα",
+    "ipa": "i ˈba.la",
+    "correct": "der Ball",
+    "wrong": [
+      "das Spiel",
+      "das Schach",
+      "das Puzzle"
+    ]
+  },
+  {
+    "id": 147,
+    "category": "Sport & Spiel",
+    "greek": "η ομάδα",
+    "ipa": "i oˈma.ða",
+    "correct": "die Mannschaft",
+    "wrong": [
+      "der Trainer",
+      "der Spieler",
+      "das Stadion"
+    ]
+  },
+  {
+    "id": 148,
+    "category": "Sport & Spiel",
+    "greek": "ο αγώνας",
+    "ipa": "o aˈɣo.nas",
+    "correct": "der Wettkampf",
+    "wrong": [
+      "das Spiel",
+      "der Fußball",
+      "das Stadion"
+    ]
+  },
+  {
+    "id": 149,
+    "category": "Sport & Spiel",
+    "greek": "η γυμναστική",
+    "ipa": "i jim.na.stiˈki",
+    "correct": "die Gymnastik",
+    "wrong": [
+      "das Schach",
+      "der Würfel",
+      "der Fußball"
+    ]
+  },
+  {
+    "id": 150,
+    "category": "Sport & Spiel",
+    "greek": "το σκάκι",
+    "ipa": "to ˈska.ki",
+    "correct": "das Schach",
+    "wrong": [
+      "das Backgammon",
+      "der Wettkampf",
+      "der Würfel"
+    ]
+  },
+  {
+    "id": 151,
+    "category": "Sport & Spiel",
+    "greek": "το ζάρι",
+    "ipa": "to ˈza.ɾi",
+    "correct": "der Würfel",
+    "wrong": [
+      "der Sport",
+      "das Schach",
+      "der Fußball"
+    ]
+  },
+  {
+    "id": 152,
+    "category": "Sport & Spiel",
+    "greek": "το τάβλι",
+    "ipa": "to ˈtav.li",
+    "correct": "das Backgammon",
+    "wrong": [
+      "das Stadion",
+      "das Schach",
+      "der Sport"
+    ]
+  },
+  {
+    "id": 153,
+    "category": "Sport & Spiel",
+    "greek": "το παιχνίδι",
+    "ipa": "to peˈxni.ði",
+    "correct": "das Spiel",
+    "wrong": [
+      "der Ball",
+      "der Würfel",
+      "der Sport"
+    ]
+  },
+  {
+    "id": 154,
+    "category": "Sport & Spiel",
+    "greek": "το κρυφτό",
+    "ipa": "to krifˈto",
+    "correct": "das Verstecken-Spiel",
+    "wrong": [
+      "der Würfel",
+      "das Schach",
+      "das Backgammon"
+    ]
+  },
+  {
+    "id": 155,
+    "category": "Sport & Spiel",
+    "greek": "το παζλ",
+    "ipa": "to ˈpazl",
+    "correct": "das Puzzle",
+    "wrong": [
+      "das Schach",
+      "das Backgammon",
+      "die Gymnastik"
+    ]
+  },
+  {
+    "id": 156,
+    "category": "Sport & Spiel",
+    "greek": "το σπορ",
+    "ipa": "to spor",
+    "correct": "der Sport",
+    "wrong": [
+      "das Spiel",
+      "der Würfel",
+      "das Schwimmen"
+    ]
+  },
+  {
+    "id": 157,
+    "category": "Tiere",
+    "greek": "ο κόκορας",
+    "ipa": "o ˈko.ko.ɾas",
+    "correct": "der Hahn",
+    "wrong": [
+      "die Katze",
+      "der Vogel",
+      "das Pferd"
+    ]
+  },
+  {
+    "id": 158,
+    "category": "Tiere",
+    "greek": "η γάτα",
+    "ipa": "i ˈɣa.ta",
+    "correct": "die Katze",
+    "wrong": [
+      "der Hund",
+      "das Haus",
+      "die Blume"
+    ]
+  },
+  {
+    "id": 159,
+    "category": "Tiere",
+    "greek": "το ζώο",
+    "ipa": "to ˈzo.o",
+    "correct": "das Tier",
+    "wrong": [
+      "der Mensch",
+      "die Pflanze",
+      "das Insekt"
+    ]
+  },
+  {
+    "id": 160,
+    "category": "Tiere",
+    "greek": "το θηλαστικό",
+    "ipa": "to θi.la.stiˈko",
+    "correct": "das Säugetier",
+    "wrong": [
+      "der Vogel",
+      "das Reptil",
+      "der Fisch"
+    ]
+  },
+  {
+    "id": 161,
+    "category": "Tiere",
+    "greek": "το ψάρι",
+    "ipa": "to ˈpsa.ɾi",
+    "correct": "der Fisch",
+    "wrong": [
+      "der Vogel",
+      "das Tier",
+      "der Delfin"
+    ]
+  },
+  {
+    "id": 162,
+    "category": "Tiere",
+    "greek": "το πουλί",
+    "ipa": "to puˈli",
+    "correct": "der Vogel",
+    "wrong": [
+      "der Fisch",
+      "das Insekt",
+      "der Hund"
+    ]
+  },
+  {
+    "id": 163,
+    "category": "Tiere",
+    "greek": "η πεταλούδα",
+    "ipa": "i pe.taˈlu.ða",
+    "correct": "der Schmetterling",
+    "wrong": [
+      "die Biene",
+      "die Fliege",
+      "die Wespe"
+    ]
+  },
+  {
+    "id": 164,
+    "category": "Tiere",
+    "greek": "το σκουλήκι",
+    "ipa": "to skuˈli.ki",
+    "correct": "der Wurm",
+    "wrong": [
+      "die Biene",
+      "die Mücke",
+      "die Fliege"
+    ]
+  },
+  {
+    "id": 165,
+    "category": "Tiere",
+    "greek": "η μέλισσα",
+    "ipa": "i ˈme.li.sa",
+    "correct": "die Biene",
+    "wrong": [
+      "der Schmetterling",
+      "die Fliege",
+      "die Spinne"
+    ]
+  },
+  {
+    "id": 166,
+    "category": "Tiere",
+    "greek": "το έντομο",
+    "ipa": "to ˈen.to.mo",
+    "correct": "das Insekt",
+    "wrong": [
+      "die Katze",
+      "das Tier",
+      "der Vogel"
+    ]
+  },
+  {
+    "id": 167,
+    "category": "Tiere",
+    "greek": "η αράχνη",
+    "ipa": "i aˈɾa.xni",
+    "correct": "die Spinne",
+    "wrong": [
+      "die Biene",
+      "die Fliege",
+      "das Insekt"
+    ]
+  },
+  {
+    "id": 168,
+    "category": "Tiere",
+    "greek": "το σκυλί",
+    "ipa": "to ski.ˈli",
+    "correct": "der Hund",
+    "wrong": [
+      "die Katze",
+      "das Pferd",
+      "der Vogel"
+    ]
+  },
+  {
+    "id": 169,
+    "category": "Tiere",
+    "greek": "το άλογο",
+    "ipa": "to ˈa.lo.ɣo",
+    "correct": "das Pferd",
+    "wrong": [
+      "die Ziege",
+      "der Hund",
+      "die Katze"
+    ]
+  },
+  {
+    "id": 170,
+    "category": "Tiere",
+    "greek": "ο ελέφαντας",
+    "ipa": "o eˈle.fan.tas",
+    "correct": "der Elefant",
+    "wrong": [
+      "die Ziege",
+      "das Pferd",
+      "der Bär"
+    ]
+  },
+  {
+    "id": 171,
+    "category": "Tiere",
+    "greek": "η αρκούδα",
+    "ipa": "i aɾˈku.ða",
+    "correct": "der Bär",
+    "wrong": [
+      "der Wolf",
+      "die Giraffe",
+      "der Fuchs"
+    ]
+  },
+  {
+    "id": 172,
+    "category": "Tiere",
+    "greek": "η μαϊμού",
+    "ipa": "i maiˈmu",
+    "correct": "der Affe",
+    "wrong": [
+      "das Nashorn",
+      "der Elefant",
+      "der Wolf"
+    ]
+  },
+  {
+    "id": 173,
+    "category": "Tiere",
+    "greek": "το φίδι",
+    "ipa": "to ˈfi.ði",
+    "correct": "die Schlange",
+    "wrong": [
+      "das Krokodil",
+      "der Igel",
+      "der Elefant"
+    ]
+  },
+  {
+    "id": 174,
+    "category": "Tiere",
+    "greek": "η χελώνα",
+    "ipa": "i xeˈlo.na",
+    "correct": "die Schildkröte",
+    "wrong": [
+      "die Maus",
+      "die Katze",
+      "der Hund"
+    ]
+  },
+  {
+    "id": 175,
+    "category": "Tiere",
+    "greek": "το κουνέλι",
+    "ipa": "to kuˈne.li",
+    "correct": "das Kaninchen",
+    "wrong": [
+      "die Biene",
+      "der Bär",
+      "das Pferd"
+    ]
+  },
+  {
+    "id": 176,
+    "category": "Verkehr & Reisen",
+    "greek": "ο ποδηλάτης",
+    "ipa": "o po.ðiˈla.tis",
+    "correct": "der Radfahrer",
+    "wrong": [
+      "der Autofahrer",
+      "der Fußgänger",
+      "der Mensch"
+    ]
+  },
+  {
+    "id": 177,
+    "category": "Verkehr & Reisen",
+    "greek": "το ποδήλατο",
+    "ipa": "to poˈði.la.to",
+    "correct": "das Fahrrad",
+    "wrong": [
+      "das Auto",
+      "das Flugzeug",
+      "das Motorrad"
+    ]
+  },
+  {
+    "id": 178,
+    "category": "Verkehr & Reisen",
+    "greek": "η μοτοσικλέτα",
+    "ipa": "i mo.to.siˈkle.ta",
+    "correct": "das Motorrad",
+    "wrong": [
+      "das Fahrrad",
+      "das Auto",
+      "das Schiff"
+    ]
+  },
+  {
+    "id": 179,
+    "category": "Verkehr & Reisen",
+    "greek": "το αεροπλάνο",
+    "ipa": "to a.e.ɾoˈpla.no",
+    "correct": "das Flugzeug",
+    "wrong": [
+      "das Auto",
+      "der Zug",
+      "das Schiff"
+    ]
+  },
+  {
+    "id": 180,
+    "category": "Verkehr & Reisen",
+    "greek": "το πλοίο",
+    "ipa": "to ˈpli.o",
+    "correct": "das Schiff",
+    "wrong": [
+      "das Motorrad",
+      "das Flugzeug",
+      "der Zug"
+    ]
+  },
+  {
+    "id": 181,
+    "category": "Verkehr & Reisen",
+    "greek": "ο σταθμός",
+    "ipa": "o staθˈmos",
+    "correct": "der Bahnhof",
+    "wrong": [
+      "die Haltestelle",
+      "der Flughafen",
+      "das Schiff"
+    ]
+  },
+  {
+    "id": 182,
+    "category": "Verkehr & Reisen",
+    "greek": "το τρένο",
+    "ipa": "to ˈtɾe.no",
+    "correct": "der Zug",
+    "wrong": [
+      "das Auto",
+      "der Bus",
+      "das Flugzeug"
+    ]
+  },
+  {
+    "id": 183,
+    "category": "Verkehr & Reisen",
+    "greek": "ο δρόμος",
+    "ipa": "o ˈðɾo.mos",
+    "correct": "die Straße",
+    "wrong": [
+      "der Gehweg",
+      "die Brücke",
+      "die Kreuzung"
+    ]
+  },
+  {
+    "id": 184,
+    "category": "Verkehr & Reisen",
+    "greek": "το αυτοκίνητο",
+    "ipa": "to af.toˈki.ni.to",
+    "correct": "das Auto",
+    "wrong": [
+      "das Fahrrad",
+      "der Bus",
+      "der Zug"
+    ]
+  },
+  {
+    "id": 185,
+    "category": "Verkehr & Reisen",
+    "greek": "ο προορισμός",
+    "ipa": "o pɾo.o.ɾisˈmos",
+    "correct": "das Ziel",
+    "wrong": [
+      "die Straße",
+      "die Reise",
+      "die Route"
+    ]
+  },
+  {
+    "id": 186,
+    "category": "Verkehr & Reisen",
+    "greek": "η εκδρομή",
+    "ipa": "i ek.ðɾoˈmi",
+    "correct": "der Ausflug",
+    "wrong": [
+      "das Fahrrad",
+      "die Straße",
+      "die Route"
+    ]
+  },
+  {
+    "id": 187,
+    "category": "Verkehr & Reisen",
+    "greek": "η επιστροφή",
+    "ipa": "i e.pi.stɾoˈfi",
+    "correct": "die Rückkehr",
+    "wrong": [
+      "der Anfang",
+      "die Abfahrt",
+      "die Reise"
+    ]
+  },
+  {
+    "id": 188,
+    "category": "Verkehr & Reisen",
+    "greek": "το ταξίδι",
+    "ipa": "to taˈksi.ði",
+    "correct": "die Reise",
+    "wrong": [
+      "das Ende",
+      "der Anfang",
+      "die Ankunft"
+    ]
+  },
+  {
+    "id": 189,
+    "category": "Zahlen",
+    "greek": "ένα",
+    "ipa": "ˈe.na",
+    "correct": "eins",
+    "wrong": [
+      "zwei",
+      "drei",
+      "vier"
+    ]
+  },
+  {
+    "id": 190,
+    "category": "Zahlen",
+    "greek": "δύο",
+    "ipa": "ˈði.o",
+    "correct": "zwei",
+    "wrong": [
+      "eins",
+      "drei",
+      "vier"
+    ]
+  },
+  {
+    "id": 191,
+    "category": "Zahlen",
+    "greek": "τρία",
+    "ipa": "ˈtɾi.a",
+    "correct": "drei",
+    "wrong": [
+      "eins",
+      "zwei",
+      "vier"
+    ]
+  },
+  {
+    "id": 192,
+    "category": "Zahlen",
+    "greek": "τέσσερα",
+    "ipa": "ˈte.se.ɾa",
+    "correct": "vier",
+    "wrong": [
+      "eins",
+      "zwei",
+      "drei"
+    ]
+  },
+  {
+    "id": 193,
+    "category": "Zahlen",
+    "greek": "πέντε",
+    "ipa": "ˈpen.te",
+    "correct": "fünf",
+    "wrong": [
+      "eins",
+      "zwei",
+      "drei"
+    ]
+  },
+  {
+    "id": 194,
+    "category": "Zahlen",
+    "greek": "έξι",
+    "ipa": "ˈe.ksi",
+    "correct": "sechs",
+    "wrong": [
+      "eins",
+      "zwei",
+      "fünf"
+    ]
+  },
+  {
+    "id": 195,
+    "category": "Zahlen",
+    "greek": "εφτά",
+    "ipa": "eˈfta",
+    "correct": "sieben",
+    "wrong": [
+      "eins",
+      "zwei",
+      "drei"
+    ]
+  },
+  {
+    "id": 196,
+    "category": "Zahlen",
+    "greek": "οχτώ",
+    "ipa": "oˈxto",
+    "correct": "acht",
+    "wrong": [
+      "eins",
+      "zwei",
+      "sechs"
+    ]
+  },
+  {
+    "id": 197,
+    "category": "Zahlen",
+    "greek": "εννιά",
+    "ipa": "enˈia",
+    "correct": "neun",
+    "wrong": [
+      "eins",
+      "zwei",
+      "sieben"
+    ]
+  },
+  {
+    "id": 198,
+    "category": "Zahlen",
+    "greek": "δέκα",
+    "ipa": "ˈðe.ka",
+    "correct": "zehn",
+    "wrong": [
+      "eins",
+      "zwei",
+      "neun"
+    ]
+  },
+  {
+    "id": 199,
+    "category": "Zahlen",
+    "greek": "ένδεκα",
+    "ipa": "ˈen.ðe.ka",
+    "correct": "elf",
+    "wrong": [
+      "eins",
+      "drei",
+      "fünf"
+    ]
+  },
+  {
+    "id": 200,
+    "category": "Zahlen",
+    "greek": "δώδεκα",
+    "ipa": "ˈðo.ðe.ka",
+    "correct": "zwölf",
+    "wrong": [
+      "eins",
+      "zwei",
+      "zehn"
+    ]
+  },
+  {
+    "id": 201,
+    "category": "Zahlen",
+    "greek": "είκοσι",
+    "ipa": "ˈi.ko.si",
+    "correct": "zwanzig",
+    "wrong": [
+      "zehn",
+      "dreißig",
+      "fünfzig"
+    ]
+  },
+  {
+    "id": 202,
+    "category": "Zahlen",
+    "greek": "τριάντα",
+    "ipa": "tɾiˈan.ta",
+    "correct": "dreißig",
+    "wrong": [
+      "zehn",
+      "zwanzig",
+      "fünfzig"
+    ]
+  },
+  {
+    "id": 203,
+    "category": "Zahlen",
+    "greek": "σαράντα",
+    "ipa": "saˈɾan.ta",
+    "correct": "vierzig",
+    "wrong": [
+      "zwanzig",
+      "dreißig",
+      "fünfzig"
+    ]
+  },
+  {
+    "id": 204,
+    "category": "Zahlen",
+    "greek": "πενήντα",
+    "ipa": "peˈnin.ta",
+    "correct": "fünfzig",
+    "wrong": [
+      "dreißig",
+      "vierzig",
+      "siebzig"
+    ]
+  },
+  {
+    "id": 205,
+    "category": "Zahlen",
+    "greek": "εξήντα",
+    "ipa": "eˈksin.ta",
+    "correct": "sechzig",
+    "wrong": [
+      "zwanzig",
+      "vierzig",
+      "fünfzig"
+    ]
+  },
+  {
+    "id": 206,
+    "category": "Zahlen",
+    "greek": "εβδομήντα",
+    "ipa": "ev.ðoˈmin.ta",
+    "correct": "siebzig",
+    "wrong": [
+      "zehn",
+      "zwanzig",
+      "fünfzig"
+    ]
+  },
+  {
+    "id": 207,
+    "category": "Zahlen",
+    "greek": "ογδόντα",
+    "ipa": "oˈɣðon.ta",
+    "correct": "achtzig",
+    "wrong": [
+      "vierzig",
+      "fünfzig",
+      "siebzig"
+    ]
+  },
+  {
+    "id": 208,
+    "category": "Zahlen",
+    "greek": "ενενήντα",
+    "ipa": "e.neˈnin.ta",
+    "correct": "neunzig",
+    "wrong": [
+      "zehn",
+      "zwanzig",
+      "sechzig"
+    ]
+  },
+  {
+    "id": 209,
+    "category": "Zahlen",
+    "greek": "εκατό",
+    "ipa": "e.kaˈto",
+    "correct": "hundert",
+    "wrong": [
+      "eins",
+      "zehn",
+      "fünfzig"
+    ]
+  },
+  {
+    "id": 210,
+    "category": "Zeit",
+    "greek": "ο χειμώνας",
+    "ipa": "o xiˈmo.nas",
+    "correct": "der Winter",
+    "wrong": [
+      "der Frühling",
+      "der Sommer",
+      "der Herbst"
+    ]
+  },
+  {
+    "id": 211,
+    "category": "Zeit",
+    "greek": "η άνοιξη",
+    "ipa": "i ˈa.ni.ksi",
+    "correct": "der Frühling",
+    "wrong": [
+      "der Sommer",
+      "der Herbst",
+      "der Winter"
+    ]
+  },
+  {
+    "id": 212,
+    "category": "Zeit",
+    "greek": "το καλοκαίρι",
+    "ipa": "to ka.loˈke.ɾi",
+    "correct": "der Sommer",
+    "wrong": [
+      "der Frühling",
+      "der Herbst",
+      "der Winter"
+    ]
+  },
+  {
+    "id": 213,
+    "category": "Zeit",
+    "greek": "το φθινόπωρο",
+    "ipa": "to fθiˈno.po.ɾo",
+    "correct": "der Herbst",
+    "wrong": [
+      "der Sommer",
+      "der Winter",
+      "der Frühling"
+    ]
+  },
+  {
+    "id": 214,
+    "category": "Zeit",
+    "greek": "ο χρόνος",
+    "ipa": "o ˈxɾo.nos",
+    "correct": "die Zeit",
+    "wrong": [
+      "die Uhr",
+      "der Augenblick",
+      "die Epoche"
+    ]
+  },
+  {
+    "id": 215,
+    "category": "Zeit",
+    "greek": "η στιγμή",
+    "ipa": "i stiɣˈmi",
+    "correct": "der Augenblick",
+    "wrong": [
+      "die Zeit",
+      "die Stunde",
+      "die Minute"
+    ]
+  },
+  {
+    "id": 216,
+    "category": "Zeit",
+    "greek": "το λεπτό",
+    "ipa": "to lepˈto",
+    "correct": "die Minute",
+    "wrong": [
+      "die Sekunde",
+      "die Stunde",
+      "die Zeit"
+    ]
+  },
+  {
+    "id": 217,
+    "category": "Zeit",
+    "greek": "η ώρα",
+    "ipa": "i ˈo.ɾa",
+    "correct": "die Stunde",
+    "wrong": [
+      "die Minute",
+      "der Tag",
+      "die Nacht"
+    ]
+  },
+  {
+    "id": 218,
+    "category": "Zeit",
+    "greek": "η εβδομάδα",
+    "ipa": "i ev.ðoˈma.ða",
+    "correct": "die Woche",
+    "wrong": [
+      "der Monat",
+      "der Tag",
+      "das Jahr"
+    ]
+  },
+  {
+    "id": 219,
+    "category": "Zeit",
+    "greek": "ο μήνας",
+    "ipa": "o ˈmi.nas",
+    "correct": "der Monat",
+    "wrong": [
+      "die Woche",
+      "das Jahr",
+      "der Tag"
+    ]
+  },
+  {
+    "id": 220,
+    "category": "Zeit",
+    "greek": "η χρονιά",
+    "ipa": "i xɾoˈnia",
+    "correct": "das Jahr",
+    "wrong": [
+      "die Woche",
+      "der Monat",
+      "der Tag"
+    ]
+  },
+  {
+    "id": 221,
+    "category": "Zeit",
+    "greek": "η δεκαετία",
+    "ipa": "i ðe.ka.eˈti.a",
+    "correct": "das Jahrzehnt",
+    "wrong": [
+      "das Jahrhundert",
+      "das Jahrtausend",
+      "die Epoche"
+    ]
+  },
+  {
+    "id": 222,
+    "category": "Zeit",
+    "greek": "ο αιώνας",
+    "ipa": "o eˈo.nas",
+    "correct": "das Jahrhundert",
+    "wrong": [
+      "das Jahrtausend",
+      "die Minute",
+      "das Jahr"
+    ]
+  }
+]

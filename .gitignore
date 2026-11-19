@@ -1,0 +1,14 @@
+# Original project files (local backup)
+legacy/
+
+# Dependencies
+node_modules/
+
+# Archives
+*.zip
+
+# Python cache
+__pycache__/
+
+# Operating system files
+.DS_Store
